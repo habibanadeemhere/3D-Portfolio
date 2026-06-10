@@ -16,13 +16,18 @@ const TIMELINE = [
   },
   {
     year: "2024",
-    title: "MERN Stack",
-    desc: "Mastered MongoDB, Express, React, and Node.js — built real-world projects.",
+    title: "Frontend Focus",
+    desc: "Focused on mastering modern frontend technologies and frameworks.",
   },
   {
     year: "2025",
-    title: "Portfolio & Beyond",
+    title: "Launching Portfolio",
     desc: "Launching professional portfolio, contributing to open source, seeking opportunities.",
+  },
+    {
+    year: "2026",
+    title: "MERN Stack",
+    desc: "Mastered MongoDB, Express, React, and Node.js — built real-world projects.",
   },
 ];
 
