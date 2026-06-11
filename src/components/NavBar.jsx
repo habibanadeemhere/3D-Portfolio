@@ -61,14 +61,26 @@ export default function NavBar() {
         ))}
       </ul>
 
-      <a
-        href="/resume.pdf"
-        target="_blank"
-        rel="noreferrer"
-        className="nav-resume-btn"
-      >
-        Resume
-      </a>
+ <div className="nav-actions">
+  <a
+    href="https://resume-five-ruddy.vercel.app/"
+    target="_blank"
+    rel="noreferrer"
+    className="nav-resume-btn"
+  >
+    Resume
+  </a>
+
+  <a
+    href="/habiba_nadeem_cv1.pdf"
+    target="_blank"
+    rel="noreferrer"
+    className="nav-resume-btn"
+  >
+    CV
+  </a>
+</div>
+   
 
       {/* Mobile burger */}
       <button
